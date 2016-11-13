@@ -1,0 +1,8 @@
+{
+  "name": "http2-a-revolution-15-years-in-the-making",
+  "version": "1.0.0",
+  "dependencies": {
+    "reveal.js": "~3.2.0",
+    "highlightjs": "~9.0.0"
+  }
+}

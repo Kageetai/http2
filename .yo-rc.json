@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "HTTP2 - A revolution 15 years in the making",
+    "packageVersion": "1.0.0",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "kageetai",
+    "githubRepository": "http2-presentation"
+  }
+}
