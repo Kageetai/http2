@@ -38,6 +38,8 @@ module.exports = (grunt) ->
                 tasks: ['sass']
 
         sass:
+            options:
+                sourceMap: true
 
             theme:
                 files:

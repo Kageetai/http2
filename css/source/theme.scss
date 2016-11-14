@@ -28,7 +28,7 @@ $headingColor: #fff;
 
 $mainFontSize: 38px;
 $mainFont: 'Source Sans Pro', Helvetica, sans-serif;
-$headingFont: 'Source Sans Pro', Helvetica, sans-serif;
+$headingFont: 'Roboto Slab', Helvetica, sans-serif;
 $headingTextShadow: none;
 $headingLetterSpacing: normal;
 $headingTextTransform: uppercase;
@@ -50,4 +50,5 @@ section.has-light-background {
 
 // Theme template ------------------------------
 @import "../../bower_components/reveal.js/css/theme/template/theme";
-// ---------------------------------------------
+// Custom Styles -------------------------------
+@import "_custom.scss"
