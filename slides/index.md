@@ -1,10 +1,12 @@
 
-# HTTP2 - A revolution 15 years in the making
+![HTTP2](/resources/HTTP2-header.jpg)
 
-From the terminal, pop in:
+## A revolution 15 years in the making
+
+<!-- From the terminal, pop in:
 
   ```yo reveal:slide "Slide Title"```
 
 Available options:
 
- ```--markdown --attributes --notes```
+ ```--markdown --attributes --notes``` -->
