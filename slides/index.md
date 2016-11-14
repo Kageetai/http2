@@ -1,5 +1,5 @@
 
-![HTTP2](/resources/HTTP2-header.jpg)
+![HTTP2](/resources/http-header.jpg)
 
 ## A revolution 15 years in the making
 
