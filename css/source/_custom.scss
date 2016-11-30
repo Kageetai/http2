@@ -1,3 +1,20 @@
-.reveal section img {
-    border: none;
+.reveal .slides > section,
+.reveal .slides > section > section {
+    display: flex !important;
+    height: 100%;
+    justify-content: center;
+    flex-direction: column;
+
+    h2.section-title {
+        position: fixed;
+        top: 0;
+        left: 50%;
+        transform: translateX(-50%);
+        opacity: 0.5;
+        font-size: 1em
+    }
+
+    img {
+        border: none;
+    }
 }

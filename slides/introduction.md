@@ -1,6 +1,8 @@
-##  Introduction
+## Introduction <!-- .element: class="section-title" -->
 
-This is a new Markdown slide
+# Who am I?
+
+![Who am I?](resources/who-am-i.gif)
 
 note:
     Put your speaker notes here.
