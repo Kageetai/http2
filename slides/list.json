@@ -1,4 +1,8 @@
 [
     "index.md",
-    "introduction.md"
+    [
+        "introduction.md",
+        "no-expert.md",
+        "questions-later.md"
+    ]
 ]
