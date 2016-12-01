@@ -1,4 +1,4 @@
-##  SPDY <!-- .element: class="section-title" -->
+##  SPDY
 
 - [research project by 2 engineers at Google in 2009](http://googleresearch.blogspot.co.uk/2009/11/2x-faster-web.html)
 - multiplexing request across single TCP connection

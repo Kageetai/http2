@@ -1,6 +1,6 @@
-##  HTTP2 <!-- .element: class="section-title" -->
+### HTTP2 <!-- .element: class="section-title" -->
 
-# Advantages
+## Advantages
 
 - Multiplexing and concurrency <!-- .element: class="fragment" -->
 - Stream dependencies/prioritizing <!-- .element: class="fragment" -->

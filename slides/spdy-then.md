@@ -1,5 +1,5 @@
-##  SPDY <!-- .element: class="section-title" -->
+###  SPDY <!-- .element: class="section-title" -->
 
-# then
+## then
 
 ![SPDY then](/resources/spdy-then.png)

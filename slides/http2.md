@@ -1,4 +1,4 @@
-## HTTP2 <!-- .element: class="section-title" -->
+### HTTP2 <!-- .element: class="section-title" -->
 
 - Internet Engineering Force (IETF)
 - http2 draft-00 made from SPDY/3 draft

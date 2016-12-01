@@ -1,4 +1,4 @@
-## Introduction <!-- .element: class="section-title" -->
+## Introduction
 
 ![Who am I?](/resources/who-am-i.gif)
 

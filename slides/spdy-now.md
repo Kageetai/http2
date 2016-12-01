@@ -1,6 +1,6 @@
-##  SPDY <!-- .element: class="section-title" -->
+###  SPDY <!-- .element: class="section-title" -->
 
-# now
+## now
 
 ![SPDY now](/resources/spdy-now.png)
 

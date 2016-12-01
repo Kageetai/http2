@@ -1,4 +1,4 @@
-##  HTTP v1 <!-- .element: class="section-title" -->
+##  HTTP v1
 
 - [initially defined in 1991](http://www.w3.org/Protocols/HTTP/AsImplemented.html) as v0.9
 - HTTP 1.0 in RFC 1945 60-page specification (1996)
