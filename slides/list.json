@@ -14,5 +14,10 @@
         "spdy.md",
         "spdy-then.md",
         "spdy-now.md"
+    ],
+    [
+        "http2-advantages.md",
+        "http2.md",
+        "http2-can-i-use.md"
     ]
 ]
