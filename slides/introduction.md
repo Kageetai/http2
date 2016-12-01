@@ -2,7 +2,7 @@
 
 # Who am I?
 
-![Who am I?](resources/who-am-i.gif)
+![Who am I?](/resources/who-am-i.gif)
 
 note:
     Front End Developer from Germany

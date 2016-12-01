@@ -1,1 +1,1 @@
-![waste of paper](resources/waste-of-paper.gif)
+![waste of paper](/resources/waste-of-paper.gif)

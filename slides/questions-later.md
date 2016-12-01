@@ -1,3 +1,3 @@
 ##  Questions later
 
-![questions later](resources/question.gif)
+![questions later](/resources/question.gif)
