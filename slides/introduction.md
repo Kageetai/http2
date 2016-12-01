@@ -1,7 +1,5 @@
 ## Introduction <!-- .element: class="section-title" -->
 
-# Who am I?
-
 ![Who am I?](/resources/who-am-i.gif)
 
 note:
