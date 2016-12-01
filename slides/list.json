@@ -4,5 +4,9 @@
         "introduction.md",
         "no-expert.md",
         "questions-later.md"
+    ],
+    [
+        "http-v1.md",
+        "waste-of-paper.md"
     ]
 ]
