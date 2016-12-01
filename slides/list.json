@@ -9,5 +9,10 @@
         "http-v1.md",
         "waste-of-paper.md"
     ],
-    "evolution-of-the-internet.md"
+    "evolution-of-the-internet.md",
+    [
+        "spdy.md",
+        "spdy-then.md",
+        "spdy-now.md"
+    ]
 ]
