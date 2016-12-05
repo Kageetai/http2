@@ -11,6 +11,13 @@
     ],
     "evolution-of-the-internet.md",
     [
+        "the-good-old-times.md",
+        "spriting.md",
+        "inlining.md",
+        "concatenation-inlining.md",
+        "sharding.md"
+    ],
+    [
         "spdy.md",
         "spdy-then.md",
         "spdy-now.md"
