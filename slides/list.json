@@ -35,5 +35,12 @@
         "http2-inlining-images.md",
         "http2-concatenating.md",
         "http2-sharding.md"
+    ],
+    "prepare-for-it.md",
+    [
+        "conclusion-1.md",
+        "conclusion-2.md",
+        "conclusion-3.md",
+        "conclusion-4.md"
     ]
 ]
