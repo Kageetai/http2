@@ -1,6 +1,6 @@
 ### Ye good ol' Times <!-- .element: class="section-title" -->
 
-## Concatenation / Minification
+## Sharding
 
 ![sharding](/resources/sharding.png)
 > [https://http2-explained.haxx.se/](https://http2-explained.haxx.se/)
@@ -13,6 +13,3 @@ note:
     limitation is higher nowadays but sharding still in use
     today the top 300K URLs in the world need on average 40(!) TCP connections to display the site
     another variant of that technique is used when specific cookie-free host names are used just to serve static images and decrease cookies, as these have been growing significantly over the years
-
-
-

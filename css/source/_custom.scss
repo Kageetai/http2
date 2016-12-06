@@ -10,17 +10,25 @@
             margin-bottom: 1em;
         }
 
+        h2 {
+            font-size: 1.2em;
+        }
+
         h3.section-title {
             position: fixed;
             top: 0;
             left: 50%;
             transform: translateX(-50%);
             opacity: 0.5;
-            font-size: 1em
+            font-size: 0.8em
         }
 
         img {
             border: none;
+        }
+
+        P > img:only-child {
+            margin: 0;
         }
 
         blockquote {
