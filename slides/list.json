@@ -23,9 +23,17 @@
         "spdy-now.md"
     ],
     [
+        "http2-title.md",
         "http2-advantages.md",
         "http2.md",
         "http2-can-i-use.md"
     ],
-    "what-does-the-user-see.md"
+    "what-does-the-user-see.md",
+    [
+        "http2-what-needs-to-be-changed.md",
+        "http2-spriting-obsolete.md",
+        "http2-inlining-images.md",
+        "http2-concatenating.md",
+        "http2-sharding.md"
+    ]
 ]
