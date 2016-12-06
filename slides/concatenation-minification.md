@@ -3,7 +3,7 @@
 ## Concatenation / Minification
 
 ![minification](/resources/minification.png)  
-> ![https://github.com/buildfirst/buildfirst/tree/master/ch02/04_minify-task](https://github.com/buildfirst/buildfirst/tree/master/ch02/04_minify-task)
+> [https://github.com/buildfirst/buildfirst/tree/master/ch02/04_minify-task](https://github.com/buildfirst/buildfirst/tree/master/ch02/04_minify-task)
 
 
 note:

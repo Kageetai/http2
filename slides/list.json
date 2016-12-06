@@ -14,7 +14,7 @@
         "the-good-old-times.md",
         "spriting.md",
         "inlining.md",
-        "concatenation-inlining.md",
+        "concatenation-minification.md",
         "sharding.md"
     ],
     [
