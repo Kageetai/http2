@@ -18,11 +18,11 @@ body {
   font-family: "Source Sans Pro", Helvetica, sans-serif;
   font-size: 38px;
   font-weight: normal;
-  color: #fff; }
+  color: #ddd; }
 
 ::selection {
   color: #fff;
-  background: #bee4fd;
+  background: #e4eff8;
   text-shadow: none; }
 
 .reveal .slides > section,
@@ -204,20 +204,20 @@ body {
  * LINKS
  *********************************************/
 .reveal a {
-  color: #42affa;
+  color: #7eb4de;
   text-decoration: none;
   -webkit-transition: color .15s ease;
   -moz-transition: color .15s ease;
   transition: color .15s ease; }
 
 .reveal a:hover {
-  color: #8dcffc;
+  color: #bbd7ee;
   text-shadow: none;
   border: none; }
 
 .reveal .roll span:after {
   color: #fff;
-  background: #068de9; }
+  background: #4191ce; }
 
 /*********************************************
  * IMAGES
@@ -225,7 +225,7 @@ body {
 .reveal section img {
   margin: 15px 0px;
   background: rgba(255, 255, 255, 0.12);
-  border: 4px solid #fff;
+  border: 4px solid #ddd;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.15); }
 
 .reveal section img.plain {
@@ -239,7 +239,7 @@ body {
 
 .reveal a:hover img {
   background: rgba(255, 255, 255, 0.2);
-  border-color: #42affa;
+  border-color: #7eb4de;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.55); }
 
 /*********************************************
@@ -247,31 +247,31 @@ body {
  *********************************************/
 .reveal .controls .navigate-left,
 .reveal .controls .navigate-left.enabled {
-  border-right-color: #42affa; }
+  border-right-color: #7eb4de; }
 
 .reveal .controls .navigate-right,
 .reveal .controls .navigate-right.enabled {
-  border-left-color: #42affa; }
+  border-left-color: #7eb4de; }
 
 .reveal .controls .navigate-up,
 .reveal .controls .navigate-up.enabled {
-  border-bottom-color: #42affa; }
+  border-bottom-color: #7eb4de; }
 
 .reveal .controls .navigate-down,
 .reveal .controls .navigate-down.enabled {
-  border-top-color: #42affa; }
+  border-top-color: #7eb4de; }
 
 .reveal .controls .navigate-left.enabled:hover {
-  border-right-color: #8dcffc; }
+  border-right-color: #bbd7ee; }
 
 .reveal .controls .navigate-right.enabled:hover {
-  border-left-color: #8dcffc; }
+  border-left-color: #bbd7ee; }
 
 .reveal .controls .navigate-up.enabled:hover {
-  border-bottom-color: #8dcffc; }
+  border-bottom-color: #bbd7ee; }
 
 .reveal .controls .navigate-down.enabled:hover {
-  border-top-color: #8dcffc; }
+  border-top-color: #bbd7ee; }
 
 /*********************************************
  * PROGRESS BAR
@@ -280,12 +280,51 @@ body {
   background: rgba(0, 0, 0, 0.2); }
 
 .reveal .progress span {
-  background: #42affa;
+  background: #7eb4de;
   -webkit-transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985);
   -moz-transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985);
   transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985); }
 
-.reveal section img {
-  border: none; }
+.reveal .slides > section,
+.reveal .slides > section > section {
+  display: flex !important;
+  height: 100%;
+  justify-content: center;
+  flex-direction: column; }
+  .reveal .slides > section h1,
+  .reveal .slides > section > section h1 {
+    margin-bottom: 1em; }
+  .reveal .slides > section h2,
+  .reveal .slides > section > section h2 {
+    font-size: 1.2em; }
+  .reveal .slides > section h3.section-title,
+  .reveal .slides > section > section h3.section-title {
+    position: fixed;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    opacity: 0.5;
+    font-size: 0.8em; }
+  .reveal .slides > section img,
+  .reveal .slides > section > section img {
+    border: none; }
+  .reveal .slides > section P > img:only-child,
+  .reveal .slides > section > section P > img:only-child {
+    margin: 0; }
+  .reveal .slides > section blockquote,
+  .reveal .slides > section > section blockquote {
+    width: 100%;
+    background-color: transparent;
+    font-size: 0.5em; }
+    .reveal .slides > section blockquote,
+    .reveal .slides > section blockquote > p,
+    .reveal .slides > section > section blockquote,
+    .reveal .slides > section > section blockquote > p {
+      margin: 0; }
+    .reveal .slides > section blockquote a,
+    .reveal .slides > section blockquote a:hover,
+    .reveal .slides > section > section blockquote a,
+    .reveal .slides > section > section blockquote a:hover {
+      color: #ababab; }
 
 /*# sourceMappingURL=theme.css.map */

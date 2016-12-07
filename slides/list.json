@@ -1,4 +1,46 @@
 [
     "index.md",
-    "introduction.md"
+    [
+        "introduction.md",
+        "no-expert.md",
+        "questions-later.md"
+    ],
+    [
+        "http-v1.md",
+        "waste-of-paper.md"
+    ],
+    "evolution-of-the-internet.md",
+    [
+        "the-good-old-times.md",
+        "spriting.md",
+        "inlining.md",
+        "concatenation-minification.md",
+        "sharding.md"
+    ],
+    [
+        "spdy.md",
+        "spdy-then.md",
+        "spdy-now.md"
+    ],
+    [
+        "http2-title.md",
+        "http2-advantages.md",
+        "http2.md",
+        "http2-can-i-use.md"
+    ],
+    "what-does-the-user-see.md",
+    [
+        "http2-what-needs-to-be-changed.md",
+        "http2-spriting-obsolete.md",
+        "http2-inlining-images.md",
+        "http2-concatenating.md",
+        "http2-sharding.md"
+    ],
+    "prepare-for-it.md",
+    [
+        "conclusion-1.md",
+        "conclusion-2.md",
+        "conclusion-3.md",
+        "conclusion-4.md"
+    ]
 ]
