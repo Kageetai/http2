@@ -6,7 +6,7 @@
 - so moving to HTTPS should be priority now
 
 note:
-    consider audience/visitors and the status of their browsers 
-    we can basically stop a lot of the additional work we did before 
-    TLS/encryption would be the first and maybe hardest step for most sites with the need for certificates etc.
+    consider audience/visitors and the status of their browsers   
+    we can basically stop a lot of the additional work we did before   
+    TLS/encryption would be the first and maybe hardest step for most sites with the need for certificates etc.  
     some HTML5 features, such as geolocation, will be unavilable without a secure connection
