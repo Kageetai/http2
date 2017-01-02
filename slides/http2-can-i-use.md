@@ -2,4 +2,4 @@
 
 ## Browser Support
 
-![can I use HTTP2](/resources/browser-support.png)
+![can I use HTTP2](resources/browser-support.png)

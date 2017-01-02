@@ -2,4 +2,4 @@
 
 ## then
 
-![SPDY then](/resources/spdy-then.png)
+![SPDY then](resources/spdy-then.png)
