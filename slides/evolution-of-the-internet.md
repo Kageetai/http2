@@ -1,6 +1,6 @@
 ##  Evolution of the Internet
 
-![growth of websites](/resources/growth-of-websites.png)
+![growth of websites](resources/growth-of-websites.png)
 > [https://http2-explained.haxx.se/](https://http2-explained.haxx.se/)
 
 note:
